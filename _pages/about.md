@@ -24,7 +24,6 @@ Her favorite Korean female idol group is **The Girls' Generation** abbreviated a
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
 
-
 <br>
     
 ✏️ [Edit this page](https://github.com/Amy0504)
