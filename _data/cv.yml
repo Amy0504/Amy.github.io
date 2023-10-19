@@ -2,50 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Cheng-Jun Wang
+      value: Yi-Xian Chen
     - name: Date of Birth
-      value: 26th May 1885
+      value: 4th May 1999
     - name: Languages
-      value: English, Chinese
+      value: Chinese，English，Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: City University of Hong Kong, Hong Kong, China
-      year: 2014
-    - title: MA
-      institution: Peking University, Beijing, China
-      year: 2010
+    - title: Master
+      institution: Nanjing University, Nanjing, China
+      year: 2023
     - title: BA
-      institution: Lanzhou University, Lanzhou, China
-      year: 2008
+      institution: Communication University of China, Beijing, China
+      year: 2020
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor 
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2017 - Now
-    - title: Assistant Research Fellow
-      institution: School of Journalism and Communication, Nanjing University
-      year: 2014 - 2017
-    - title: Director
-      institution: Socrates Lab, Computational Communication Collaboratory, Nanjing University.
-      year: 2015 - Now
+    - title: reporter
+      institution: Suzhou daily,Suzhou
+      year: 2021 - 2023
 
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
-    - title: Computational Communication
+    - title: youth culture
       items: 
-        - Information Diffusion.
-        - Attention Flow.
-        - Computational Narrative.
+        - Korean Pop Culture
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton and Drawing.
+    - <u>Hobbies:</u> 
